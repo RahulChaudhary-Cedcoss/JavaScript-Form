@@ -49,5 +49,8 @@
             alert("Over");
         }
     }
+    else {
+        alert("Please enter valid inputs :")
+    }
     
 }
